@@ -39,7 +39,7 @@ public class StaticValue {
     //食人花敌人
     public static List<BufferedImage> flower = new ArrayList<>();
     //路径的前缀,方便后续调用
-    public static String path ="D:\\programme\\java\\improvement\\GameLearning\\SuperMario2.0\\images\\images\\";
+    public static String path ="images\\";
 
     //初始化方法
     public static void init() {
